@@ -22,5 +22,5 @@ def adding
   #your code here
   puts shipping_manifest["oil paintings"]
   #remember to return the shipping_manifest hash
-  
+
 end
